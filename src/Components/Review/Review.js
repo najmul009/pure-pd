@@ -4,7 +4,7 @@ import './Review.css'
 const Review = () => {
     return (
         <div>
-            <h1>Review</h1>
+            <h1>Reviews</h1>
         </div>
     );
 };
