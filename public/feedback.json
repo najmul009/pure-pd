@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1x1",
+        "name": "Ms Meyke Pijls",
+        "email":  "meyke.pijls@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/women/48.jpg",
+        "rating": 5,
+        "feedback": "PlayStation's exclusive titles have me hooked. The Dualsense controller is fantastic, console runs pretty quiet and games look great. If you can get one at MSRP, do it, they're a lot of fun."
+    },
+    {
+        "id": "1x2",
+        "name": "Mr Herman Espe",
+        "email": "herman.espe@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+        "rating": 4,
+        "feedback": "Great console. Very fun has lots of games. Controller is awesome. Graphics are awesome. Great all around."
+    },
+    {
+        "id": "1x3",
+        "name": "Miss Ruby Douglas",
+        "email": "ruby.douglas@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/women/28.jpg",
+        "rating": 5,
+        "feedback": "Had a few issues at launch which have been fixed with updates over time and now it works great. Will have to trade in though, if there's ever a PS5 Pro announcement."
+    },
+    {
+        "id": "1x4",
+        "name": "Miss Carolin Mewes",
+        "email": "carolin.mewes@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/women/37.jpg",
+        "rating": 5,
+        "feedback": "I love this thing. Barring the one issue I have had with it connecting to my wifi, this is one of my favorite console launches ever. Was lucky enough to pick this guy up on launch day and have been playing Destiny 2 Beyond Light, Astro's Playroom, Spider Man Miles Morales, and CoD Cold War. "
+    },
+    {
+        "id": "1x5",
+        "name": "Mr Eeli Salmi",
+        "email": "eeli.salmi@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/men/56.jpg",
+        "rating": 4,
+        "feedback": "What can I say it's a PS5 everyone wants it and I'm happy to say I got one with no struggles. I have had no issues. It works smoothly. I love everything about it!"
+    },
+    {
+        "id": "1x6",
+        "name": "Miss Louisa Roche",
+        "email": "louisa.roche@example.com",
+        "img": "https://randomuser.me/api/portraits/thumb/women/56.jpg",
+        "rating": 5,
+        "feedback": "Honestly, what do you expect? It's next-gen. The console itself to begin with looks like some type of alien object that's casually placed in your living room. The controller is fantastic, much bigger so it can grip in my hands properly now. I always liked the PS4 controller but now holding this I can see how much less of a controller it is compared to the PS5's. Lastly, you honestly won't get the full next-gen experience until HDMI 2.1 4k monitors come out that runs over 120hz. So if money is a little tight I would wait till it dies down. Not worth paying over retail for this console. So if you were thinking of buying it from those scalpers don't."
+    },
+    {
+        "id": "1x7",
+        "name": "Miss Barb Patterson",
+        "email": "barb.patterson@example.com",
+        "img" : "https://randomuser.me/api/portraits/thumb/women/85.jpg",
+        "rating":5,
+        "feedback": "This is the MOST in-demand next-gen gaming console.  It's so hard to get your hands on it.  The picture quality is amazing on a 4K TV (recommend high refresh rate 120 MHz 4K TV if you can afford it).  This console has no disc drive so will have to download games online.  It functions as a media center and allows you to watch amazon prime videos for example in addition to gaming.  It's the console that once you play on it, you won't want to go back to the earlier gen PS consoles.  Get it while you can!! (oftentimes you only seconds to buy it before going out of stock)"
+    }
+]
