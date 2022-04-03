@@ -1,0 +1,30 @@
+.banner{
+    display: flex;
+    background-color: antiquewhite;
+    height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+}
+.headlines{
+    padding-left: 100px;
+    width: 50%;
+}
+.headlines h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.headlines p{
+    color: rgb(92, 76, 76);
+    margin-top: 30px;
+    font-weight: 500;
+}
+.bannerImg{
+    padding-right: 100px;
+    width: 50%;
+}
+.bannerImg img{
+    width: 100%;
+}
+.highlite{
+    color: orangered;
+}
