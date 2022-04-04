@@ -4,10 +4,12 @@
     align-items: center;
     justify-content: space-between;
     padding: 0px 140px;
+    background-color: rgb(4, 32, 51);
+    color: white;
 }
 
 .unactive{
-    color: black;
+    color: white;
     text-decoration: none;
     margin: 0px 10px;
    

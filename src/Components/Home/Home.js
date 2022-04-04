@@ -7,7 +7,6 @@ import './Home.css'
 const Home = () => {
     const [products]= useReviews()
     const demoFeedBack = products.slice(0,3)
-    console.log(demoFeedBack)
 
     return (
         <div>
