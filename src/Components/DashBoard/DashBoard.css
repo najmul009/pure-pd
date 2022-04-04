@@ -13,3 +13,21 @@
     color: rgb(24, 139, 216);
     text-align: center;
 }
+@media screen and (max-width: 600px){
+    .chart-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: auto;
+    }
+    .chart{
+        margin: auto;
+        padding-top: 50px;
+        
+    
+    }
+    .chart-title{
+        padding-bottom: 20px;
+        color: rgb(24, 139, 216);
+        text-align: center;
+    }
+}

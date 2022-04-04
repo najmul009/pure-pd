@@ -27,3 +27,39 @@
     color: rgb(86, 89, 92);
     margin-top: 20px;
 }
+@media screen and (max-width: 600px){
+    .review-container{
+        padding: 10px 10px;
+        
+    }
+    .review-card{
+        display: flex;
+        flex-direction: column;
+        padding: 10px 5px;
+        margin-top: 100px;
+
+    }
+    .card-img{
+        position: relative;
+    }
+    .card-img img{
+        position: absolute;
+        top: -70px;
+        left: 110px;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 5px solid white;
+    }
+    .card-info{
+        width: 100%;
+        padding: 5px 10px;
+        margin-top: 100px;
+        text-align: center;
+     }
+     .card-info p{
+         font-weight: 400;
+         color: rgb(86, 89, 92);
+         margin-top: 20px;
+     }
+}

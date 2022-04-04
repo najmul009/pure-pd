@@ -26,3 +26,29 @@
     margin: 0px 10px;
     font-weight: 500;
 }
+
+@media screen and (max-width: 600px) {
+    .navbar{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 0px 0px;
+        box-sizing: border-box;
+    }
+    .navbar div{
+        margin: auto;
+       
+    }
+    .navbar h1{
+        margin: auto;
+    }
+    .logo{
+        text-align: center;
+       
+    }
+    .unactive{
+        margin: 0px 5px;
+    }
+    .active{
+        margin: 0px 5px;
+    }
+}

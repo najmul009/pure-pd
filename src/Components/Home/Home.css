@@ -52,3 +52,35 @@
     border-radius: 10px;
     background-color: rgb(64, 165, 248);
 }
+@media screen and (max-width: 600px) {
+    .banner{
+        flex-direction: column;
+
+        height: auto;
+    }
+    .headlines{
+        padding-left: 10px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .headlines h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .headlines p{
+        color: rgb(92, 76, 76);
+        margin-top: 10px;
+        font-weight: 400;
+    }
+    .bannerImg{
+        padding-right: 10px;
+        width: 100%;
+    }
+    .bannerImg img{
+        width: 100%;
+    }
+    .user-feedback{
+        grid-template-columns: 1fr;
+        margin: auto;
+    }
+}
