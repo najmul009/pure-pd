@@ -28,3 +28,27 @@
 .highlite{
     color: orangered;
 }
+.user-feedback{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 0px 100px;
+    
+}
+.demo-reviews{
+    background-color: rgb(223, 217, 217);
+}
+.demo-reviews h1{
+    padding-top: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.show-all{
+    text-align: center;
+    padding: 30px 0px;
+}
+.show-btn{
+    border: 0px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(64, 165, 248);
+}
