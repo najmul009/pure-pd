@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav className='navbar'>
           
 
-            <h1>PurePD</h1>
+            <h1 className='logo'>Pure<span className='orange'>PD</span></h1>
             <div >
                 {/* Home */}
                 <NavLink

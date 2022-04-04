@@ -7,7 +7,13 @@
     background-color: rgb(4, 32, 51);
     color: white;
 }
-
+.logo{
+    font-family: 'Beau Rivage', cursive;
+    font-weight: 900;
+}
+.orange{
+    color: orange;
+}
 .unactive{
     color: white;
     text-decoration: none;

@@ -3,8 +3,8 @@ import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div>
-            <h1>404! Not Found</h1>
+        <div className='not-fount'>
+            <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-404.png" alt="" />
         </div>
     );
 };
