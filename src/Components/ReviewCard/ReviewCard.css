@@ -1,0 +1,29 @@
+.review-container{
+    padding: 20px 100px;
+    
+}
+.review-card{
+    display: flex;
+    border: 0px solid black;
+    padding: 20px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px ;
+    background-color: white;
+}
+.card-img{
+    width: 80%;
+    text-align: center;
+}
+.card-img img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.card-info{
+   width: 120%;
+}
+.card-info p{
+    font-weight: 500;
+    color: rgb(86, 89, 92);
+    margin-top: 20px;
+}

@@ -1,10 +1,15 @@
 import React from 'react';
+import useReviews from '../../Hooks/useReviews/useReviews';
+import ReviewCard from '../ReviewCard/ReviewCard';
 import './Review.css'
 
 const Review = () => {
+    const [products] = useReviews()
     return (
-        <div>
-            <h1>Reviews</h1>
+        <div className='reviews'>
+            {
+                products.map(pd => <ReviewCard key={pd.id} data={pd}></ReviewCard>)
+            }
         </div>
     );
 };
