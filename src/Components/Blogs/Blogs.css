@@ -8,3 +8,7 @@
     width: 70%;
     margin-top: 20px;
 }
+.blog p{
+    font-weight: 500;
+    color: rgb(99, 90, 90);
+}
