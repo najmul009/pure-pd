@@ -19,6 +19,7 @@
     height: 250px;
     border-radius: 50%;
 }
+
 .card-info{
    width: 120%;
 }
@@ -27,6 +28,7 @@
     color: rgb(86, 89, 92);
     margin-top: 20px;
 }
+
 @media screen and (max-width: 600px){
     .review-container{
         padding: 10px 10px;
@@ -45,7 +47,7 @@
     .card-img img{
         position: absolute;
         top: -70px;
-        left: 110px;
+        left: 30%;
         width: 150px;
         height: 150px;
         border-radius: 50%;
@@ -62,4 +64,19 @@
          color: rgb(86, 89, 92);
          margin-top: 20px;
      }
+}
+@media only screen and (min-device-width : 700px) and (max-device-width : 924px){
+    .review-container{
+        padding: 20px 40px;       
+    }    
+    .card-img{
+        width: 40%;       
+    }
+    .card-img img{
+        width: 200px;
+        height: 200px;      
+    }   
+    .card-info{
+       width: 160%;
+    } 
 }

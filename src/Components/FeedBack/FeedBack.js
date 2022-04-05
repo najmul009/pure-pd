@@ -1,8 +1,12 @@
 import React from 'react';
 import './FeedBack.css'
+import Rating from 'react-rating';
+import { faStar } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 const FeedBack = (props) => {
-    const {name,img,rating,feedback} = props.data;
+    const { name, img, rating, feedback } = props.data;
     return (
         <div className='feedback'>
 
@@ -12,7 +16,17 @@ const FeedBack = (props) => {
 
             <div className="user-review">
                 <h4 className='text-center'>{name}</h4>
-                <strong>Rating: {rating}</strong>
+                <div className="rating">
+                    <strong>Rating: </strong>
+                    <Rating
+                        initialRating={rating}
+                        emptySymbol={<FontAwesomeIcon icon={faStar} />}
+                        fullSymbol={<FontAwesomeIcon style={{ color: 'gold' }} icon={faStar} />}
+                        readonly
+                    ></Rating>
+                </div>
+
+
                 <p className='center-only'>{feedback}</p>
             </div>
         </div>

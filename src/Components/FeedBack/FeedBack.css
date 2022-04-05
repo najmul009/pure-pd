@@ -7,7 +7,7 @@
 .userImg{
     position: absolute;
     top: 0px;
-    left: 110px;
+    left: 35%;
     
 }
 .userImg img{
@@ -25,10 +25,11 @@
     border-radius: 10px;
     height: 300px;
 }
-.user-review strong{
+.rating{
     text-align: center;
     margin-top: 10px;
 }
+
 .text-center{
     text-align: center;
     padding-top: 30px;
@@ -39,11 +40,29 @@
     font-weight: 500;
     color: #685959;
 }
+
 @media screen and (max-width: 600px){
     .userImg{
         position: absolute;
         top: 0px;
-        left: 140px;
+        left: 38%;
         
+    }
+}
+@media only screen and (min-device-width : 700px) and (max-device-width : 924px){
+    .userImg{
+        position: absolute;
+        top: 0px;
+        left: 43%;
+        
+    }
+    .user-review{
+       
+        padding: 20px;
+        margin-top: 65px;
+        margin-left: 40px;
+        margin-right: 40px;
+        border-radius: 10px;
+        height: 250px;
     }
 }

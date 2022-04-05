@@ -26,6 +26,13 @@
     margin: 0px 10px;
     font-weight: 500;
 }
+@media screen and (max-width: 355px){
+    .unactive{
+        font-size: 13px;
+        margin: 0px 5px;  
+    }
+    
+}
 
 @media screen and (max-width: 600px) {
     .navbar{
@@ -51,4 +58,10 @@
     .active{
         margin: 0px 5px;
     }
+}
+@media only screen and (min-device-width : 700px) and (max-device-width : 924px) {
+    .navbar{
+        padding: 0px 40px;   
+    }
+    
 }

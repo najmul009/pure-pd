@@ -12,7 +12,7 @@
         "name": "Mr Herman Espe",
         "email": "herman.espe@example.com",
         "img": "https://i.pinimg.com/originals/ae/ec/c2/aeecc22a67dac7987a80ac0724658493.jpg",
-        "rating": 4,
+        "rating": 4.5,
         "feedback": "Great console. Very fun has lots of games. Controller is awesome. Graphics are awesome. Great all around."
     },
     {
@@ -20,7 +20,7 @@
         "name": "Miss Ruby Douglas",
         "email": "ruby.douglas@example.com",
         "img": "https://images.unsplash.com/photo-1604004555489-723a93d6ce74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z2lybHxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "rating": 5,
+        "rating": 4,
         "feedback": "Had a few issues at launch which have been fixed with updates over time and now it works great. Will have to trade in though, if there's ever a PS5 Pro announcement."
     },
     {
@@ -36,7 +36,7 @@
         "name": "Mr Eeli Salmi",
         "email": "eeli.salmi@example.com",
         "img": "https://preview.redd.it/e02mihul20b21.jpg?auto=webp&s=5c92534edbaa97951d8caaf1a451832947af72ea",
-        "rating": 4,
+        "rating": 4.3,
         "feedback": "What can I say it's a PS5 everyone wants it and I'm happy to say I got one with no struggles. I have had no issues. It works smoothly. I love everything about it!"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Miss Louisa Roche",
         "email": "louisa.roche@example.com",
         "img": "https://d33wubrfki0l68.cloudfront.net/1fa5d5db38d24786b36e58bf0562f1d821b12ef6/e61d8/static/inviteyourownheader1-878b5db230ca8e78e1451814ba07a834.jpg",
-        "rating": 5,
+        "rating": 4.6,
         "feedback": "Honestly, what do you expect? It's next-gen. The console itself to begin with looks like some type of alien object that's casually placed in your living room. The controller is fantastic, much bigger so it can grip in my hands properly now. I always liked the PS4 controller but now holding this I can see how much less of a controller it is compared to the PS5's. Lastly, you honestly won't get the full next-gen experience until HDMI 2.1 4k monitors come out that runs over 120hz. So if money is a little tight I would wait till it dies down. Not worth paying over retail for this console. So if you were thinking of buying it from those scalpers don't."
     },
     {
@@ -52,7 +52,7 @@
         "name": "Miss Barb Patterson",
         "email": "barb.patterson@example.com",
         "img" : "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-        "rating":5,
+        "rating":3.7,
         "feedback": "This is the MOST in-demand next-gen gaming console.  It's so hard to get your hands on it.  The picture quality is amazing on a 4K TV (recommend high refresh rate 120 MHz 4K TV if you can afford it).  This console has no disc drive so will have to download games online.  It functions as a media center and allows you to watch amazon prime videos for example in addition to gaming.  It's the console that once you play on it, you won't want to go back to the earlier gen PS consoles.  Get it while you can!! (oftentimes you only seconds to buy it before going out of stock)"
     }
 ]
